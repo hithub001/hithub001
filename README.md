@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwaferanmi
-- 👀 I’m interested in Fronthead Development
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Frontend Development (HTML, CSS/JAVASCRIPT AND BOOTSTRAP)
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me hithitlink@gmail.com
